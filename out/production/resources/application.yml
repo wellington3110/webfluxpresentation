@@ -1,0 +1,16 @@
+logging:
+  level:
+    org:
+      springframework:
+        web: DEBUG
+        transaction: TRACE
+        data:
+          r2dbc:
+            connectionfactory: DEBUG
+r2dbc:
+  migrate:
+    resources-paths:
+      - classpath:/db/migration/*.sql
+spring:
+  r2dbc:
+    url: r2dbc:h2:mem:///testdb
