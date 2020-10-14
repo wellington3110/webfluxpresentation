@@ -1,6 +1,6 @@
 # Webflux presentation
 
-Esse repositório contém todo o código utilizado na apresentação de [Introdução à Spring Web Flux][].
+Esse repositório contém todo o código utilizado na apresentação de [Introdução à Spring Web Flux](https://docs.google.com/presentation/d/1wkC1kouKWrPe13SdcqZ28fT5KcOgUyIS1ZJcIaOGOh0/edit).
 
 ## Estrutura
 
